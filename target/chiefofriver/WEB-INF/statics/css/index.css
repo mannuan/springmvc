@@ -1,0 +1,43 @@
+.searchBox{
+    margin-top:18px;
+    margin-left:18px;
+    text-align-all: center;
+    height: 48px;
+    font-size: 27px;
+}
+
+#logo{
+    text-align: center;
+    line-height: 48px;
+    min-width:142px;
+}
+.searchInput,#searchBtn{
+    height: 48px;
+    font-size: 24px;
+}
+#searchBtn{
+    font-size: 27px;
+}
+#kindBox{
+    font-size:27px ;
+    margin-top:10px;
+    margin-bottom: 10px;
+    text-align-all: center;
+    background: #f8f8f8;
+}
+#showBox{
+    margin-top: 10px;
+    font-size:20px;
+    background-color: #ffffff;
+}
+
+.titleTd{
+    padding:5px;
+}
+
+#inputBox{
+    min-width:535px;
+}
+#kinds{
+    min-width:420px;
+}
